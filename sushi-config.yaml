@@ -1,0 +1,66 @@
+# ╭────────────────────────────────────────────────────────────────────────────────────────────────╮
+# │  ACTION REQUIRED: REVIEW AND EDIT THIS FILE TO ENSURE IT ACCURATELY REFLECTS YOUR PROJECT!     │
+# │                                                                                                │
+# │  This file was generated from your existing project files and will be used for SUSHI           │
+# │  configuration from now on. You may delete your package.json as it is no longer needed.        │
+# ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
+
+# ╭──────────────────────────────ImplementationGuide-gatekeeper.json───────────────────────────────╮
+# │  The properties below are used to create the ImplementationGuide resource. For a list of       │
+# │  supported properties, see:                                                                    │
+# │  http://build.fhir.org/ig/HL7/fhir-shorthand/branches/beta/sushi.html#ig-development           │
+# ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
+id: hmb.fhir.ig
+canonical: http://hmb.org/working
+version: 0.0.1
+name: HMBWorkshopIG
+title: HMB Workshop IG
+status: draft
+description: Heavy Menstrual Bleeding Workshop IG
+jurisdiction: http://unstats.un.org/unsd/methods/m49/m49.htm#036 "Australia"
+license: CC0-1.0
+
+fhirVersion: 4.0.1
+dependencies:
+  hl7.fhir.uv.ips: current
+  hl7.fhir.us.mcode: current
+parameters:
+  show-inherited-invariants: false
+copyrightYear: 2021+
+releaseLabel: CI Build
+# releaseLabel: trial-use
+
+FSHOnly: false
+
+
+pages:
+  index.md:
+    title: Home  
+  maturity.md:
+    title: Maturity Model
+  profiles.md:
+    title: Profiles
+  terminology.md:
+    title: Terminology
+  downloads.md:
+    title: Useful Downloads
+  changes.html:
+    title: Change History
+
+			
+menu:
+  IG Home: index.html
+  Table of Contents: toc.html
+  Specifications:
+    Profiles: profiles.html
+    Terminology: terminology.html
+    Extensions: extensions.html
+  Maturity Model: maturity.html
+  Artifact Index: artifacts.html			
+  Support:
+    FHIR Spec: new-tab http://hl7.org/fhir/R4/index.html
+    Report an issue: new-tab http://hl7.org.au
+    Downloads: downloads.html
+	
+
+  

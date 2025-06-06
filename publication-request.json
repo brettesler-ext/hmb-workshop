@@ -1,0 +1,14 @@
+{
+  "package-id" : "tmp.fhir",
+  "version" : "0.1.0",
+  "path" : "https://tmp.org/fhir/tmp",
+  "status" : "qa-preview",
+  "sequence" : "Release 1",
+  "first": true,
+  "milestone" : true,
+  "ci-build": "https://build.fhir.org/ig/aehrc/logical-models",
+  "desc" : "This is the version released .",
+  "title" : "TMP IG",
+  "category" : "TMP IGs",
+  "introduction" : "Temporary IG"
+}

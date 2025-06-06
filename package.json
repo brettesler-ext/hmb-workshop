@@ -1,0 +1,14 @@
+{
+ "name": "hmbworkshopig",
+ "version" : "0.0.1",  
+ "canonical" : "http://hmb.org/working",
+ "url" : "http://hmb.org/working",
+ "title" : "HMB IG",
+ "description": "HMB IG",
+ "dependencies": {
+    "hl7.fhir.r4.core": "4.0.1"
+ },
+ "language": "en",
+ "author": "Dev Days",
+ "license": "CC0-1.0"
+}
