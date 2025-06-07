@@ -6,7 +6,7 @@ Description: "SNOMED CT concepts representing findings about menstrual regularit
 * ^experimental = false
 
 
-* http://snomed.info/sct#248922006
-* http://snomed.info/sct#248923001
-* http://snomed.info/sct#161713000
-* http://snomed.info/sct#161714006
+* http://snomed.info/sct#302757007
+* http://snomed.info/sct#80182007
+
+
