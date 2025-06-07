@@ -28,6 +28,5 @@ Description: "First menstrual period."
 * value[x] MS
 * valueQuantity.unit = "a"
 
-* performer MS
 
 

@@ -27,6 +27,5 @@ Description: "Last menstrual period (LMP)."
 * value[x] only dateTime
 * value[x] MS
 
-* performer MS
 
 

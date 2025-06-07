@@ -28,6 +28,5 @@ Description: "Frequency of menstrual period."
 * value[x] MS
 * valueCodeableConcept from MenstrualRegularityFindingsVS (required)
 
-* performer MS
 
 

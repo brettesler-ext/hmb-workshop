@@ -28,6 +28,5 @@ Description: "Duration of last menstrual period."
 * value[x] MS
 * valueQuantity.unit = "d"
 
-* performer MS
 
 
