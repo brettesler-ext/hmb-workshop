@@ -20,6 +20,7 @@ Description: "Duration of last menstrual period."
 * code 1..1 MS
 * code = http://loinc.org#3144-3 "Duration of last menstrual period"
 
+* subject only Patient
 * subject 1..1 MS
 * effective[x] only dateTime
 * effective[x] MS

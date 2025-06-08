@@ -20,6 +20,7 @@ Description: "Frequency of menstrual period."
 * code 1..1 MS
 * code = http://snomed.info/sct#364306002 "Frequency of menstruation"
 
+* subject only Patient
 * subject 1..1 MS
 * effective[x] only dateTime
 * effective[x] MS
