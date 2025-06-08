@@ -20,7 +20,7 @@ Description: "Last menstrual period (LMP)."
 * code 1..1 MS
 * code = http://loinc.org#8665-2 "Last menstrual period start date"
 
-* subject only Patient
+* subject only Reference(Patient)
 * subject 1..1 MS
 * effective[x] only dateTime
 * effective[x] MS
